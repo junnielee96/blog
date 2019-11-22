@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Junnie Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkFA8nCcoT6oStul6ueIHtPo95p4fVRh3rtkKYyYv6wFs74ZzD&s # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
   email            :
