@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Junnie Lee's github Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "This is Junnie Lee's github blog for her constructive life style :)" # site tagline that appears below site title in masthead
 name                     : "Junnie Lee"
 description              : "This is Junnie Lee's github blog for her constructive life style :)"
 url                      : # "https://junnielee.github.io"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Junnie Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:junhanhee@snu.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,13 +124,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/hailey.lee.3950"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/junnielee96"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/junnielee"
 
 # Site Footer
 footer:
